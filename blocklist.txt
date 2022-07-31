@@ -1,0 +1,3 @@
+/csdn\.net/
+/jianshu\.com/
+/cloud\.tencent\.com\/developer\/article\/*/
